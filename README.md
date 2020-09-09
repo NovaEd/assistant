@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pyrogram/assistant)
+
 # Pyrogram Assistant
 
 <img src="https://i.imgur.com/JyxrStE.png" width="160" align="right">
